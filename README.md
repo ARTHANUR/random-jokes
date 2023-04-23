@@ -16,4 +16,4 @@ You may also see any lint errors in the console.
 
 # Desktop View :
 
-![image] (https://res.cloudinary.com/dboa7dqkl/image/upload/v1682229803/Screenshot_2023-04-23_113231_lhxs3v.png)
+![image](https://res.cloudinary.com/dboa7dqkl/image/upload/v1682229803/Screenshot_2023-04-23_113231_lhxs3v.png)
