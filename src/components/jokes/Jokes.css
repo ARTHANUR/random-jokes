@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@300&display=swap');
+
+.jokes-container{
+    background: url("../../../public/images/cat-joke.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 100vw;
+    height: 100vh;
+    position: relative;
+    transform: translate(200px, 0);
+    font-weight: 900;
+    font-family: 'Noto Sans', sans-serif;
+
+}
+.jokes-container::-webkit-scrollbar{
+    display: none;
+}
+.bubble1{
+    background: url("../../../public/images/bubble1.png");
+    width: 200px;
+    height: 200px;
+    background-size: cover;
+    transform: translate(-200px , 0);
+    padding: 3rem;
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    font-size: 2rem;
+    color: red;
+}
+
+.bubble1>div {
+    position:absolute;
+    font-size: 1.2rem;
+    left:20px;
+    /* max-width: 400px; */
+}
+.bubble2{
+    background: url("../../../public/images/bubble2.png");
+    width: 200px;
+    height: 200px;
+    background-size: cover;
+    transform: translate(700px ,-100px );
+    padding: 3rem;
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    font-size: 2rem;
+    color: blue;
+    
+}
+
+.jokes-container>button{
+    width: 7rem;
+    height: 4rem;
+    font-size: 3rem;
+    background-color: greenyellow;
+    border-radius: 18px;
+    transform: translate(-100px , 0);
+    box-shadow: 14px 18px 15px 10px rgba(0, 0, 0, 0.25);
+}
+
