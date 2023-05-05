@@ -14,6 +14,9 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
+## Explaination :
+Jokes are generated using using joke api.
+
 # Desktop View :
 
 ![image](https://res.cloudinary.com/dboa7dqkl/image/upload/v1682229803/Screenshot_2023-04-23_113231_lhxs3v.png)
