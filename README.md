@@ -15,7 +15,7 @@ The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
 ## Explaination :
-Jokes are generated using using joke api.
+Jokes are generated using using joke api 👻
 
 # Desktop View :
 
